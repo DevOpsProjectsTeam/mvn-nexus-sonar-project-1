@@ -38,8 +38,8 @@
         </snapshotRepository>
         <repository>
             <id>nexus</id>
-            <name>maven-web-application2-Release Nexus Repository</name>
-            <url>http://98.92.142.55:8081/repository/maven-web-application2-Release/</url>
+            <name>mvn-nexus-sonar-project-1-Release Nexus Repository</name>
+            <url>http://98.92.142.55:8081/repository/mvn-nexus-sonar-project-1-Release/</url>
         </repository>
   </distributionManagement>
 
